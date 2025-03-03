@@ -1,7 +1,5 @@
-# test_add_new_book_correct_and_incorrect_books
-Добавление книг:
-- 1 книга не добавлена, т.к. количество символов >40
-- 2 и 3 книги корректны, и добавлены в словарь
+# test_add_new_book_correct_books
+Проверка добавления книги
 # test_set_book_genre_add_genre
 Установка жанра для существующей книги устанавливается правильно
 # test_set_book_genre_incorrect_genre
@@ -18,5 +16,7 @@
 Добавление книги в список Избранных
 # test_delete_book_from_favorites_delete_one_book
 Удаление одной книги из списка Избранных
+# test_get_list_of_favorites_books_get_one_book
+Получение списка Избранных книг из одной книги 
 # test_get_list_of_favorites_books_an_empty_list
 Получение пустого списка Избранных
