@@ -18,5 +18,3 @@
 Удаление одной книги из списка Избранных
 # test_get_list_of_favorites_books_get_one_book
 Получение списка Избранных книг из одной книги 
-# test_get_list_of_favorites_books_an_empty_list
-Получение пустого списка Избранных

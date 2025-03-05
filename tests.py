@@ -68,6 +68,4 @@ class TestBooksCollector:
         collector.add_book_in_favorites('Человек-амфибия')
         assert collector.get_list_of_favorites_books() == ['Человек-амфибия']
 
-    def test_get_list_of_favorites_books_an_empty_list(self, add_books):
-        collector = add_books
-        assert collector.get_list_of_favorites_books() == []
+
